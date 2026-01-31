@@ -1,5 +1,4 @@
 # TC4031.10 – Cómputo en la Nube  
-## Actividad 1 – Programación Paralela con OpenMP
 
 Este repositorio contiene la entrega de actividades de la materia **Cómputo en la Nube (TC4031.10)** de la **Maestría en Inteligencia Artificial Aplicada**.
 
