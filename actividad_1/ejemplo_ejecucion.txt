@@ -1,0 +1,27 @@
+(base) juliovelazquez@192 actividad_1 % ./suma_paralelo
+Generando arreglos aleatorios a y b...
+Realizando la suma en paralelo...
+Threads usados: 10
+i=100 ejecutado por thread 1
+i=600 ejecutado por thread 6
+i=650 ejecutado por thread 6
+i=800 ejecutado por thread 8
+i=850 ejecutado por thread 8
+i=300 ejecutado por thread 3
+i=350 ejecutado por thread 3
+i=400 ejecutado por thread 4
+i=450 ejecutado por thread 4
+i=200 ejecutado por thread 2
+i=250 ejecutado por thread 2
+i=500 ejecutado por thread 5
+i=900 ejecutado por thread 9
+i=550 ejecutado por thread 5
+i=150 ejecutado por thread 1
+i=700 ejecutado por thread 7
+i=750 ejecutado por thread 7
+i=950 ejecutado por thread 9
+i=0 ejecutado por thread 0
+i=50 ejecutado por thread 0
+Imprimiendo los primeros 10 elementos del arreglo a: 9 9 0 8 4 7 1 6 5 5 
+Imprimiendo los primeros 10 elementos del arreglo b: 8 8 3 8 3 3 4 0 8 3 
+Imprimiendo los primeros 10 elementos del arreglo c: 17 17 3 16 7 10 5 6 13 8 
